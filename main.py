@@ -27,7 +27,7 @@ class StormG3NBot(commands.Bot):
         self.gen_channel_id  = int(cfg.get('genChannelId',  0))
         self.logs_channel_id = int(cfg.get('logsChannelId', 0))
         self.status_role_id  = int(cfg.get('statusRoleId',  0))
-        self.status_text     = cfg.get('statusText', '.gg/warden-cloud : Free MCFA Generator')
+        self.status_text     = cfg.get('statusText', '.gg/StormGen')
 
     async def setup_hook(self):
         print(f"[{BOT_NAME}] Loading extensions...")
