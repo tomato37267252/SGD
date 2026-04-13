@@ -1,20 +1,20 @@
 {
   "botConfig": {
     "token": "",
-    "statusText": ".gg/MetalDrops",
-    "ownerRoleId": "ID_OF_OWNER_ROLE",
-    "genAccessRoleId": "ID_OF_G3N_ACCESS_ROLE",
-    "vouchTargetId": "ID_TO_MENTION_IN_VOUCH",
-    "vouchChannelId": "ID_VOUCH_CHANNEL",
-    "appealChannelId": "ID_APPEAL_CHANNEL",
-    "logsChannelId": "ID_LOGS_CHANNEL",
-    "vouchFailureLogChannelId": "ID_LOGS_CHANNEL",
-    "genChannelId": "ID_FREE_GEN_CHANNEL",
-    "boosterChannelId": "ID_BOOSTER_GEN_CHANNEL",
-    "vipChannelId": "ID_VIP_GEN_CHANNEL",
-    "restockChannelId": "ID_RESTOCK_CHANNEL",
-    "ticketCategoryId": "ID_TICKET_CATEGORY",
-    "ticketLogChannelId": "ID_TICKET_LOG_CHANNEL",
-    "supportRoleId": "ID_SUPPORT_ROLE"
+    "statusText": ".gg/SGD",
+    "ownerRoleId": "1493258533636931745",
+    "genAccessRoleId": "1493269666922233876",
+    "vouchTargetId": "1466390330738737215",
+    "vouchChannelId": "1493269831896535070",
+    "appealChannelId": "1493269912708190350",
+    "logsChannelId": "1493269912708190350",
+    "vouchFailureLogChannelId": "1493269912708190350",
+    "genChannelId": "1493270132523270296",
+    "boosterChannelId": "1493270220607979661",
+    "vipChannelId": "1493270264929325286",
+    "restockChannelId": "1493270309938270298",
+    "ticketCategoryId": "1493270362526584832",
+    "ticketLogChannelId": "1493270436493131858",
+    "supportRoleId": "1493270503656394923"
   }
 }
