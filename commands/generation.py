@@ -116,7 +116,7 @@ class GenerationCommands(commands.Cog):
             e = discord.Embed(title=f"{lock} Access Denied", color=0xff0000)
             e.description = (
                 f"{arrow} You need the **G3N Access** role to use the free generator.\n\n"
-                f"**How to get it:** Set `.gg/MetalDrops` as your Discord Custom Status "
+                f"**How to get it:** Set `.gg/StormGen` as your Discord Custom Status "
                 f"and run `$cstatus`!"
             )
             e.set_footer(text=BOT_NAME)
