@@ -2,19 +2,19 @@
   "botConfig": {
     "token": "",
     "statusText": ".gg/SGD",
-    "ownerRoleId": "1493258533636931745",
-    "genAccessRoleId": "1493269666922233876",
-    "vouchTargetId": "1466390330738737215",
-    "vouchChannelId": "1493269831896535070",
-    "appealChannelId": "1493269912708190350",
-    "logsChannelId": "1493269912708190350",
-    "vouchFailureLogChannelId": "1493269912708190350",
-    "genChannelId": "1493270132523270296",
-    "boosterChannelId": "1493270220607979661",
-    "vipChannelId": "1493270264929325286",
-    "restockChannelId": "1493270309938270298",
-    "ticketCategoryId": "1493270362526584832",
-    "ticketLogChannelId": "1493270436493131858",
-    "supportRoleId": "1493270503656394923"
+    "ownerRoleId": "1493270720489193581",
+    "genAccessRoleId": "1493270720418152503",
+    "vouchTargetId": "1493270720531398887",
+    "vouchChannelId": "1493270721676443864",
+    "appealChannelId": "1493270722322235619",
+    "logsChannelId": "1493270722322235619",
+    "vouchFailureLogChannelId": "1493270722322235619",
+    "genChannelId": "1493270721957466217",
+    "boosterChannelId": "1493270721957466219",
+    "vipChannelId": "1493270721957466218",
+    "restockChannelId": "1493270723429662929",
+    "ticketCategoryId": "1493270722641133684",
+    "ticketLogChannelId": "1493270722322235621",
+    "supportRoleId": "1493270720447254631"
   }
 }
