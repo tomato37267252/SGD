@@ -1,0 +1,20 @@
+{
+  "botConfig": {
+    "token": "",
+    "statusText": ".gg/MetalDrops",
+    "ownerRoleId": "ID_OF_OWNER_ROLE",
+    "genAccessRoleId": "ID_OF_G3N_ACCESS_ROLE",
+    "vouchTargetId": "ID_TO_MENTION_IN_VOUCH",
+    "vouchChannelId": "ID_VOUCH_CHANNEL",
+    "appealChannelId": "ID_APPEAL_CHANNEL",
+    "logsChannelId": "ID_LOGS_CHANNEL",
+    "vouchFailureLogChannelId": "ID_LOGS_CHANNEL",
+    "genChannelId": "ID_FREE_GEN_CHANNEL",
+    "boosterChannelId": "ID_BOOSTER_GEN_CHANNEL",
+    "vipChannelId": "ID_VIP_GEN_CHANNEL",
+    "restockChannelId": "ID_RESTOCK_CHANNEL",
+    "ticketCategoryId": "ID_TICKET_CATEGORY",
+    "ticketLogChannelId": "ID_TICKET_LOG_CHANNEL",
+    "supportRoleId": "ID_SUPPORT_ROLE"
+  }
+}
